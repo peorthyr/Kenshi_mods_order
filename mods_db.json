@@ -1,0 +1,2179 @@
+{
+    "Towns Root": {
+        "id": "1195041057",
+        "tags": [
+            "Characters",
+            "Environment/Map",
+            "Factions"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Reactive World": {
+        "id": "1358096888",
+        "tags": [
+            "Characters",
+            "Environment/Map",
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Reduced Particle Effects": {
+        "id": "1470372482",
+        "tags": [
+            "Environment/Map",
+            "Graphical"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "shoppingecon": {
+        "id": "1581929438",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "Nightvision+": {
+        "id": "1618523919",
+        "tags": [
+            "Environment/Map",
+            "Gameplay",
+            "Graphical"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Reduced Weather Effects": {
+        "id": "1630021836",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "AnimationOverhaul": {
+        "id": "1630760930",
+        "tags": [
+            "Graphical",
+            "Items/Weapons",
+            "Total Overhaul"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Compressed Textures Project": {
+        "id": "1649794243",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Trade Prices": {
+        "id": "1658170081",
+        "tags": [
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[5]----------[Faction edits, Minor Faction, Bounties]----------.mod",
+        "in_masterlist": false
+    },
+    "Kenkyaku_idle_01": {
+        "id": "1668847363",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Community Part Map": {
+        "id": "1671502407",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Fixing Clipping Issues": {
+        "id": "1678049479",
+        "tags": [
+            "Clothing/Armour"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "More Combat Animation": {
+        "id": "1691422256",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Idle Stands": {
+        "id": "1723542142",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "More Combat Stance MIA+": {
+        "id": "1870611566",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Weird recruit": {
+        "id": "1892771436",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Kenshi_rewritten": {
+        "id": "1977679759",
+        "tags": [
+            "Gameplay",
+            "GUI"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "yet_another_kenshi_nude_mod": {
+        "id": "1996829229",
+        "tags": [
+            "Characters",
+            "Clothing/Armour"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Idle Stands Patch": {
+        "id": "2007492437",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "42 Unique Recruits": {
+        "id": "2013487537",
+        "tags": [
+            "Characters",
+            "Factions",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Project Limos": {
+        "id": "2040742402",
+        "tags": [
+            "Buildings",
+            "Gameplay"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "More Sitting Animation": {
+        "id": "2133953660",
+        "tags": [],
+        "category": "[11]----------[Miscellanious]----------.mod",
+        "in_masterlist": false
+    },
+    "Genesis": {
+        "id": "2228579107",
+        "tags": [
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Project -Ultimate Anim Patch-": {
+        "id": "2246962386",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "Underwear Restored": {
+        "id": "2337988885",
+        "tags": [
+            "Clothing/Armour"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Heavy weapon combat stance [MCS patch]": {
+        "id": "2374039537",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Heavy weapon combat stance": {
+        "id": "2374040943",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "More Dogs": {
+        "id": "2377416273",
+        "tags": [
+            "Clothing/Armour",
+            "Environment/Map",
+            "Factions",
+            "Gameplay",
+            "Races"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "BigBusiness": {
+        "id": "2379749116",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "PolearmBladesUP": {
+        "id": "2480986780",
+        "tags": [
+            "Gameplay",
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "RadiantFaces": {
+        "id": "2508412096",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Better Night Sky and Planet Textures": {
+        "id": "2584116181",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Metal Framework": {
+        "id": "2610399054",
+        "tags": [
+            "Buildings",
+            "Gameplay",
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "FlavorText+": {
+        "id": "2650113754",
+        "tags": [
+            "Items/Weapons"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Immersive non-combat animations": {
+        "id": "2692142481",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Unofficial Patches for Kenshi": {
+        "id": "2714086775",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Clothing/Armour",
+            "Environment/Map",
+            "Factions",
+            "Gameplay",
+            "Graphical",
+            "Items/Weapons",
+            "Races",
+            "Research",
+            "Total Overhaul"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Great Anims Mod": {
+        "id": "2725549481",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "CBT Vanilla Hair Fix": {
+        "id": "2786795820",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Graphical"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "SheeshSkins x MaleGreenlanderFace": {
+        "id": "2798970824",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "KPM_Performance_Particles": {
+        "id": "2800302311",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "SheeshSkins x FemaleGreenlanderFace": {
+        "id": "2802013872",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "sleepanim": {
+        "id": "2810262017",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Total Overhaul"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "SheeshSkins x FemaleScorchlanderFace": {
+        "id": "2815799376",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Caeda": {
+        "id": "2824281270",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Animal Variations": {
+        "id": "2853641828",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Kenshi Load Order Organizer": {
+        "id": "2862368638",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[1]----------[UI, Graphics, Performance]----------": {
+        "id": "2862389603",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[2]----------[Animations]----------": {
+        "id": "2862389694",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[3]----------[New Races, Race edit, Cosmetics]----------": {
+        "id": "2862389766",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[4]----------[Game Starts, Minor NPC, Animals]----------": {
+        "id": "2862389853",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[5]----------[Faction edits, Minor Faction, Bounties]----------": {
+        "id": "2862389936",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[6]----------[Buildings]----------": {
+        "id": "2862391014",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[7]----------[Armor & Weapons]----------": {
+        "id": "2862392262",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[8]----------[Overhauls & World Changes]----------": {
+        "id": "2862394641",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[9]----------[Patches]----------": {
+        "id": "2862395130",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[10]----------[Economy]----------": {
+        "id": "2862397536",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Ayanami": {
+        "id": "2887493022",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Strategic Ambiguity": {
+        "id": "2894978661",
+        "tags": [
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[5]----------[Faction edits, Minor Faction, Bounties]----------.mod",
+        "in_masterlist": false
+    },
+    "NO Human ladies muscle def, but thicc shek babes are fine": {
+        "id": "2895455760",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "[11]----------[Miscellanious]----------": {
+        "id": "2912420926",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "01": {
+        "id": "2913798392",
+        "tags": [
+            "Clothing/Armour",
+            "Graphical",
+            "Characters"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "DigCombatAnimation": {
+        "id": "2922713981",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "CBT YANM & Community Part Map -  Invisible Arms Fix": {
+        "id": "2936262493",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Hands_behind_Back": {
+        "id": "2950824375",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Portable Dried Meat Storage": {
+        "id": "2977091082",
+        "tags": [
+            "Buildings",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Animal Variations Patch": {
+        "id": "2982489314",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "[1.2]--------------------(Graphics)": {
+        "id": "2989327082",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "[1.3]--------------------(Performance)": {
+        "id": "2989327339",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "[8.1]--------------------(Combat)": {
+        "id": "2989335298",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "[9.2]--------------------(Animation Patches)": {
+        "id": "2989336355",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "MCA Battle Fury": {
+        "id": "3042247461",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Races",
+            "Total Overhaul"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Great Anims_Rebalance": {
+        "id": "3047829102",
+        "tags": [
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "DigCombat_skill_limits": {
+        "id": "3047884128",
+        "tags": [
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "roro hair": {
+        "id": "3051787398",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "YAKNM - Collection Pack": {
+        "id": "3053103794",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Graphical"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Animation - Collection Pack": {
+        "id": "3066628535",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Idol": {
+        "id": "3105983683",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Clothing and Light Armor": {
+        "id": "3182981282",
+        "tags": [
+            "Clothing/Armour",
+            "Gameplay",
+            "Graphical",
+            "Research"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Pathfinding - Collection Pack": {
+        "id": "3186856217",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Races",
+            "Total Overhaul"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Armor - Collection Pack": {
+        "id": "3210486754",
+        "tags": [
+            "Clothing/Armour",
+            "Items/Weapons",
+            "Research"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Dropped in Style": {
+        "id": "3263005742",
+        "tags": [
+            "Clothing/Armour",
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Slightly Adjusted Blunt Weapons": {
+        "id": "3263012276",
+        "tags": [
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "BetterVendorLists": {
+        "id": "3292169203",
+        "tags": [
+            "Clothing/Armour",
+            "Gameplay",
+            "Items/Weapons",
+            "Total Overhaul"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "MoodLighting": {
+        "id": "3295047328",
+        "tags": [
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "MoodWeather": {
+        "id": "3300660383",
+        "tags": [
+            "Environment/Map",
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "CrunkTweakCompilation": {
+        "id": "3303090579",
+        "tags": [
+            "Gameplay",
+            "Total Overhaul"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "HHI_Character_Retexture": {
+        "id": "3306192135",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "HHI_Character_Retexture patch": {
+        "id": "3324685825",
+        "tags": [
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "FASTR": {
+        "id": "3328905177",
+        "tags": [
+            "Environment/Map",
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "JF HackersReskinned": {
+        "id": "3335405934",
+        "tags": [
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Many More Beards": {
+        "id": "3354551586",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Many More Hairs": {
+        "id": "3358288516",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Accurate Zones Patch": {
+        "id": "3379831802",
+        "tags": [
+            "Environment/Map",
+            "Gameplay"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "NudeMod+18 vanilla": {
+        "id": "3386876024",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Re Faces": {
+        "id": "3386939298",
+        "tags": [
+            "Characters",
+            "Factions",
+            "Gameplay",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "KPM_LEM": {
+        "id": "3392901904",
+        "tags": [
+            "Environment/Map",
+            "Graphical"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Pretty Stuff": {
+        "id": "3400528309",
+        "tags": [
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "FASTR Reactive World": {
+        "id": "3402165999",
+        "tags": [
+            "Environment/Map",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "RadiantFacesFixes": {
+        "id": "3404894834",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "256 Recruits - V.1.0.68": {
+        "id": "3405818838",
+        "tags": [
+            "Characters",
+            "Cheats",
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "BeautifulBodiesAndFaces": {
+        "id": "3413231341",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "BBAFMegapatch": {
+        "id": "3414426475",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "GUI",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Heightmap Fix": {
+        "id": "3426253797",
+        "tags": [
+            "Environment/Map",
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Henkas Bar Mod": {
+        "id": "3436435538",
+        "tags": [
+            "Buildings",
+            "Environment/Map",
+            "Total Overhaul"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "CATO Reactive World": {
+        "id": "3436658018",
+        "tags": [
+            "Buildings",
+            "Environment/Map",
+            "GUI",
+            "Total Overhaul"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "ReWeapon": {
+        "id": "3477292843",
+        "tags": [
+            "Graphical",
+            "Items/Weapons",
+            "Research"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "256 Squad Limit": {
+        "id": "705119823",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "RecruitPrisoners": {
+        "id": "726254871",
+        "tags": [
+            "Characters",
+            "Cheats",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "citizens": {
+        "id": "838054044",
+        "tags": [
+            "Characters",
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Copper drill": {
+        "id": "893422439",
+        "tags": [
+            "Buildings",
+            "Gameplay",
+            "Research"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Shidan's Tweaks & Fixes": {
+        "id": "913241774",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Clothing/Armour",
+            "Factions",
+            "Gameplay",
+            "Items/Weapons",
+            "Research"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Towns Root.mod": {
+        "id": "1195041057",
+        "name": "Towns Root.mod",
+        "tags": [
+            "Characters",
+            "Environment/Map",
+            "Factions"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Reactive World.mod": {
+        "id": "1358096888",
+        "name": "Reactive World.mod",
+        "tags": [
+            "Characters",
+            "Environment/Map",
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Reduced Particle Effects.mod": {
+        "id": "1470372482",
+        "name": "Reduced Particle Effects.mod",
+        "tags": [
+            "Environment/Map",
+            "Graphical"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "shoppingecon.mod": {
+        "id": "1581929438",
+        "name": "shoppingecon.mod",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "Nightvision+.mod": {
+        "id": "1618523919",
+        "name": "Nightvision+.mod",
+        "tags": [
+            "Environment/Map",
+            "Gameplay",
+            "Graphical"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Reduced Weather Effects.mod": {
+        "id": "1630021836",
+        "name": "Reduced Weather Effects.mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "AnimationOverhaul.mod": {
+        "id": "1630760930",
+        "name": "AnimationOverhaul.mod",
+        "tags": [
+            "Graphical",
+            "Items/Weapons",
+            "Total Overhaul"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Compressed Textures Project.mod": {
+        "id": "1649794243",
+        "name": "Compressed Textures Project.mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Trade Prices.mod": {
+        "id": "1658170081",
+        "name": "Trade Prices.mod",
+        "tags": [
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[5]----------[Faction edits, Minor Faction, Bounties]----------.mod",
+        "in_masterlist": false
+    },
+    "Kenkyaku_idle_01.mod": {
+        "id": "1668847363",
+        "name": "Kenkyaku_idle_01.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Community Part Map.mod": {
+        "id": "1671502407",
+        "name": "Community Part Map.mod",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Fixing Clipping Issues.mod": {
+        "id": "1678049479",
+        "name": "Fixing Clipping Issues.mod",
+        "tags": [
+            "Clothing/Armour"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "More Combat Animation.mod": {
+        "id": "1691422256",
+        "name": "More Combat Animation.mod",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Idle Stands.mod": {
+        "id": "1723542142",
+        "name": "Idle Stands.mod",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "More Combat Stance MIA+.mod": {
+        "id": "1870611566",
+        "name": "More Combat Stance MIA+.mod",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Weird recruit.mod": {
+        "id": "1892771436",
+        "name": "Weird recruit.mod",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Kenshi_rewritten.mod": {
+        "id": "1977679759",
+        "name": "Kenshi_rewritten.mod",
+        "tags": [
+            "Gameplay",
+            "GUI"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "yet_another_kenshi_nude_mod.mod": {
+        "id": "1996829229",
+        "name": "yet_another_kenshi_nude_mod.mod",
+        "tags": [
+            "Characters",
+            "Clothing/Armour"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Idle Stands Patch.mod": {
+        "id": "2007492437",
+        "name": "Idle Stands Patch.mod",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "42 Unique Recruits.mod": {
+        "id": "2013487537",
+        "name": "42 Unique Recruits.mod",
+        "tags": [
+            "Characters",
+            "Factions",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Project Limos.mod": {
+        "id": "2040742402",
+        "name": "Project Limos.mod",
+        "tags": [
+            "Buildings",
+            "Gameplay"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "More Sitting Animation.mod": {
+        "id": "2133953660",
+        "name": "More Sitting Animation.mod",
+        "tags": [],
+        "category": "[11]----------[Miscellanious]----------.mod",
+        "in_masterlist": false
+    },
+    "Genesis.mod": {
+        "id": "2228579107",
+        "name": "Genesis.mod",
+        "tags": [
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Project -Ultimate Anim Patch-.mod": {
+        "id": "2246962386",
+        "name": "Project -Ultimate Anim Patch-.mod",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "Underwear Restored.mod": {
+        "id": "2337988885",
+        "name": "Underwear Restored.mod",
+        "tags": [
+            "Clothing/Armour"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Heavy weapon combat stance [MCS patch].mod": {
+        "id": "2374039537",
+        "name": "Heavy weapon combat stance [MCS patch].mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Heavy weapon combat stance.mod": {
+        "id": "2374040943",
+        "name": "Heavy weapon combat stance.mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "More Dogs.mod": {
+        "id": "2377416273",
+        "name": "More Dogs.mod",
+        "tags": [
+            "Clothing/Armour",
+            "Environment/Map",
+            "Factions",
+            "Gameplay",
+            "Races"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "BigBusiness.mod": {
+        "id": "2379749116",
+        "name": "BigBusiness.mod",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "PolearmBladesUP.mod": {
+        "id": "2480986780",
+        "name": "PolearmBladesUP.mod",
+        "tags": [
+            "Gameplay",
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "RadiantFaces.mod": {
+        "id": "2508412096",
+        "name": "RadiantFaces.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Better Night Sky and Planet Textures.mod": {
+        "id": "2584116181",
+        "name": "Better Night Sky and Planet Textures.mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Metal Framework.mod": {
+        "id": "2610399054",
+        "name": "Metal Framework.mod",
+        "tags": [
+            "Buildings",
+            "Gameplay",
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "FlavorText+.mod": {
+        "id": "2650113754",
+        "name": "FlavorText+.mod",
+        "tags": [
+            "Items/Weapons"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Immersive non-combat animations.mod": {
+        "id": "2692142481",
+        "name": "Immersive non-combat animations.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Unofficial Patches for Kenshi.mod": {
+        "id": "2714086775",
+        "name": "Unofficial Patches for Kenshi.mod",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Clothing/Armour",
+            "Environment/Map",
+            "Factions",
+            "Gameplay",
+            "Graphical",
+            "Items/Weapons",
+            "Races",
+            "Research",
+            "Total Overhaul"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Great Anims Mod.mod": {
+        "id": "2725549481",
+        "name": "Great Anims Mod.mod",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "CBT Vanilla Hair Fix.mod": {
+        "id": "2786795820",
+        "name": "CBT Vanilla Hair Fix.mod",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Graphical"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "SheeshSkins x MaleGreenlanderFace.mod": {
+        "id": "2798970824",
+        "name": "SheeshSkins x MaleGreenlanderFace.mod",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "KPM_Performance_Particles.mod": {
+        "id": "2800302311",
+        "name": "KPM_Performance_Particles.mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "SheeshSkins x FemaleGreenlanderFace.mod": {
+        "id": "2802013872",
+        "name": "SheeshSkins x FemaleGreenlanderFace.mod",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "sleepanim.mod": {
+        "id": "2810262017",
+        "name": "sleepanim.mod",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Total Overhaul"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "SheeshSkins x FemaleScorchlanderFace.mod": {
+        "id": "2815799376",
+        "name": "SheeshSkins x FemaleScorchlanderFace.mod",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Caeda.mod": {
+        "id": "2824281270",
+        "name": "IdlePose_Caeda.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Animal Variations.mod": {
+        "id": "2853641828",
+        "name": "Animal Variations.mod",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Kenshi Load Order Organizer.mod": {
+        "id": "2862368638",
+        "name": "Kenshi Load Order Organizer.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[1]----------[UI, Graphics, Performance]----------.mod": {
+        "id": "2862389603",
+        "name": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[2]----------[Animations]----------.mod": {
+        "id": "2862389694",
+        "name": "[2]----------[Animations]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[3]----------[New Races, Race edit, Cosmetics]----------.mod": {
+        "id": "2862389766",
+        "name": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[4]----------[Game Starts, Minor NPC, Animals]----------.mod": {
+        "id": "2862389853",
+        "name": "[4]----------[Game Starts, Minor NPC, Animals]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[5]----------[Faction edits, Minor Faction, Bounties]----------.mod": {
+        "id": "2862389936",
+        "name": "[5]----------[Faction edits, Minor Faction, Bounties]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[6]----------[Buildings]----------.mod": {
+        "id": "2862391014",
+        "name": "[6]----------[Buildings]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[7]----------[Armor & Weapons]----------.mod": {
+        "id": "2862392262",
+        "name": "[7]----------[Armor & Weapons]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[8]----------[Overhauls & World Changes]----------.mod": {
+        "id": "2862394641",
+        "name": "[8]----------[Overhauls & World Changes]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[9]----------[Patches]----------.mod": {
+        "id": "2862395130",
+        "name": "[9]----------[Patches]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "[10]----------[Economy]----------.mod": {
+        "id": "2862397536",
+        "name": "[10]----------[Economy]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Ayanami.mod": {
+        "id": "2887493022",
+        "name": "IdlePose_Ayanami.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Strategic Ambiguity.mod": {
+        "id": "2894978661",
+        "name": "Strategic Ambiguity.mod",
+        "tags": [
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[5]----------[Faction edits, Minor Faction, Bounties]----------.mod",
+        "in_masterlist": false
+    },
+    "NO Human ladies muscle def, but thicc shek babes are fine.mod": {
+        "id": "2895455760",
+        "name": "NO Human ladies muscle def, but thicc shek babes are fine.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "[11]----------[Miscellanious]----------.mod": {
+        "id": "2912420926",
+        "name": "[11]----------[Miscellanious]----------.mod",
+        "tags": [
+            "GUI"
+        ],
+        "category": "[1]----------[UI, Graphics, Performance]----------.mod",
+        "in_masterlist": false
+    },
+    "01.mod": {
+        "id": "2913798392",
+        "name": "01.mod",
+        "tags": [
+            "Clothing/Armour",
+            "Graphical",
+            "Characters"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "DigCombatAnimation.mod": {
+        "id": "2922713981",
+        "name": "DigCombatAnimation.mod",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "CBT YANM & Community Part Map -  Invisible Arms Fix.mod": {
+        "id": "2936262493",
+        "name": "CBT YANM & Community Part Map -  Invisible Arms Fix.mod",
+        "tags": [
+            "Graphical"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Hands_behind_Back.mod": {
+        "id": "2950824375",
+        "name": "IdlePose_Hands_behind_Back.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Portable Dried Meat Storage.mod": {
+        "id": "2977091082",
+        "name": "Portable Dried Meat Storage.mod",
+        "tags": [
+            "Buildings",
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Animal Variations Patch.mod": {
+        "id": "2982489314",
+        "name": "Animal Variations Patch.mod",
+        "tags": [
+            "Gameplay"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "[1.2]--------------------(Graphics).mod": {
+        "id": "2989327082",
+        "name": "[1.2]--------------------(Graphics).mod",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "[1.3]--------------------(Performance).mod": {
+        "id": "2989327339",
+        "name": "[1.3]--------------------(Performance).mod",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "[8.1]--------------------(Combat).mod": {
+        "id": "2989335298",
+        "name": "[8.1]--------------------(Combat).mod",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "[9.2]--------------------(Animation Patches).mod": {
+        "id": "2989336355",
+        "name": "[9.2]--------------------(Animation Patches).mod",
+        "tags": [
+            "Graphical",
+            "GUI"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "MCA Battle Fury.mod": {
+        "id": "3042247461",
+        "name": "MCA Battle Fury.mod",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Races",
+            "Total Overhaul"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Great Anims_Rebalance.mod": {
+        "id": "3047829102",
+        "name": "Great Anims_Rebalance.mod",
+        "tags": [
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "DigCombat_skill_limits.mod": {
+        "id": "3047884128",
+        "name": "DigCombat_skill_limits.mod",
+        "tags": [
+            "Gameplay",
+            "Items/Weapons"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "roro hair.mod": {
+        "id": "3051787398",
+        "name": "roro hair.mod",
+        "tags": [
+            "Characters",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "YAKNM - Collection Pack.mod": {
+        "id": "3053103794",
+        "name": "YAKNM - Collection Pack.mod",
+        "tags": [
+            "Characters",
+            "Clothing/Armour",
+            "Graphical"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Animation - Collection Pack.mod": {
+        "id": "3066628535",
+        "name": "Animation - Collection Pack.mod",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "IdlePose_Idol.mod": {
+        "id": "3105983683",
+        "name": "IdlePose_Idol.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Clothing and Light Armor.mod": {
+        "id": "3182981282",
+        "name": "Clothing and Light Armor.mod",
+        "tags": [
+            "Clothing/Armour",
+            "Gameplay",
+            "Graphical",
+            "Research"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Pathfinding - Collection Pack.mod": {
+        "id": "3186856217",
+        "name": "Pathfinding - Collection Pack.mod",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Races",
+            "Total Overhaul"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Armor - Collection Pack.mod": {
+        "id": "3210486754",
+        "name": "Armor - Collection Pack.mod",
+        "tags": [
+            "Clothing/Armour",
+            "Items/Weapons",
+            "Research"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Dropped in Style.mod": {
+        "id": "3263005742",
+        "name": "Dropped in Style.mod",
+        "tags": [
+            "Clothing/Armour",
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "Slightly Adjusted Blunt Weapons.mod": {
+        "id": "3263012276",
+        "name": "Slightly Adjusted Blunt Weapons.mod",
+        "tags": [
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "BetterVendorLists.mod": {
+        "id": "3292169203",
+        "name": "BetterVendorLists.mod",
+        "tags": [
+            "Clothing/Armour",
+            "Gameplay",
+            "Items/Weapons",
+            "Total Overhaul"
+        ],
+        "category": "[7]----------[Armor & Weapons]----------.mod",
+        "in_masterlist": false
+    },
+    "MoodLighting.mod": {
+        "id": "3295047328",
+        "name": "MoodLighting.mod",
+        "tags": [
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "MoodWeather.mod": {
+        "id": "3300660383",
+        "name": "MoodWeather.mod",
+        "tags": [
+            "Environment/Map",
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "CrunkTweakCompilation.mod": {
+        "id": "3303090579",
+        "name": "CrunkTweakCompilation.mod",
+        "tags": [
+            "Gameplay",
+            "Total Overhaul"
+        ],
+        "category": "[8.1]--------------------(Combat).mod",
+        "in_masterlist": false
+    },
+    "HHI_Character_Retexture.mod": {
+        "id": "3306192135",
+        "name": "HHI_Character_Retexture.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "HHI_Character_Retexture patch.mod": {
+        "id": "3324685825",
+        "name": "HHI_Character_Retexture patch.mod",
+        "tags": [
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "FASTR.mod": {
+        "id": "3328905177",
+        "name": "FASTR.mod",
+        "tags": [
+            "Environment/Map",
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "JF HackersReskinned.mod": {
+        "id": "3335405934",
+        "name": "JF HackersReskinned.mod",
+        "tags": [
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "Many More Beards.mod": {
+        "id": "3354551586",
+        "name": "Many More Beards.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Many More Hairs.mod": {
+        "id": "3358288516",
+        "name": "Many More Hairs.mod",
+        "tags": [
+            "Characters"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Accurate Zones Patch.mod": {
+        "id": "3379831802",
+        "name": "Accurate Zones Patch.mod",
+        "tags": [
+            "Environment/Map",
+            "Gameplay"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "NudeMod+18 vanilla.mod": {
+        "id": "3386876024",
+        "name": "NudeMod+18 vanilla.mod",
+        "tags": [
+            "Characters",
+            "Gameplay",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Re Faces.mod": {
+        "id": "3386939298",
+        "name": "Re Faces.mod",
+        "tags": [
+            "Characters",
+            "Factions",
+            "Gameplay",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "KPM_LEM.mod": {
+        "id": "3392901904",
+        "name": "KPM_LEM.mod",
+        "tags": [
+            "Environment/Map",
+            "Graphical"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Pretty Stuff.mod": {
+        "id": "3400528309",
+        "name": "Pretty Stuff.mod",
+        "tags": [
+            "Graphical",
+            "Items/Weapons"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "FASTR Reactive World.mod": {
+        "id": "3402165999",
+        "name": "FASTR Reactive World.mod",
+        "tags": [
+            "Environment/Map",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "RadiantFacesFixes.mod": {
+        "id": "3404894834",
+        "name": "RadiantFacesFixes.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "256 Recruits - V.1.0.68.mod": {
+        "id": "3405818838",
+        "name": "256 Recruits - V.1.0.68.mod",
+        "tags": [
+            "Characters",
+            "Cheats",
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "BeautifulBodiesAndFaces.mod": {
+        "id": "3413231341",
+        "name": "BeautifulBodiesAndFaces.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "BBAFMegapatch.mod": {
+        "id": "3414426475",
+        "name": "BBAFMegapatch.mod",
+        "tags": [
+            "Characters",
+            "Graphical",
+            "GUI",
+            "Races"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Heightmap Fix.mod": {
+        "id": "3426253797",
+        "name": "Heightmap Fix.mod",
+        "tags": [
+            "Environment/Map",
+            "Graphical",
+            "Total Overhaul"
+        ],
+        "category": "[8]----------[Overhauls & World Changes]----------.mod",
+        "in_masterlist": false
+    },
+    "Henkas Bar Mod.mod": {
+        "id": "3436435538",
+        "name": "Henkas Bar Mod.mod",
+        "tags": [
+            "Buildings",
+            "Environment/Map",
+            "Total Overhaul"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "CATO Reactive World.mod": {
+        "id": "3436658018",
+        "name": "CATO Reactive World.mod",
+        "tags": [
+            "Buildings",
+            "Environment/Map",
+            "GUI",
+            "Total Overhaul"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "ReWeapon.mod": {
+        "id": "3477292843",
+        "name": "ReWeapon.mod",
+        "tags": [
+            "Graphical",
+            "Items/Weapons",
+            "Research"
+        ],
+        "category": "[1.2]--------------------(Graphics).mod",
+        "in_masterlist": false
+    },
+    "256 Squad Limit.mod": {
+        "id": "705119823",
+        "name": "256 Squad Limit.mod",
+        "tags": [
+            "Characters",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "RecruitPrisoners.mod": {
+        "id": "726254871",
+        "name": "RecruitPrisoners.mod",
+        "tags": [
+            "Characters",
+            "Cheats",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "citizens.mod": {
+        "id": "838054044",
+        "name": "citizens.mod",
+        "tags": [
+            "Characters",
+            "Factions",
+            "Gameplay"
+        ],
+        "category": "[3]----------[New Races, Race edit, Cosmetics]----------.mod",
+        "in_masterlist": false
+    },
+    "Copper drill.mod": {
+        "id": "893422439",
+        "name": "Copper drill.mod",
+        "tags": [
+            "Buildings",
+            "Gameplay",
+            "Research"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    },
+    "Shidan's Tweaks & Fixes.mod": {
+        "id": "913241774",
+        "name": "Shidan's Tweaks & Fixes.mod",
+        "tags": [
+            "Buildings",
+            "Characters",
+            "Clothing/Armour",
+            "Factions",
+            "Gameplay",
+            "Items/Weapons",
+            "Research"
+        ],
+        "category": "[6]----------[Buildings]----------.mod",
+        "in_masterlist": false
+    }
+}

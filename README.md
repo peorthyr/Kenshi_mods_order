@@ -1,72 +1,61 @@
-# Kenshi Mods Order
+# Kenshi Mods Order 
 
-Analisi dettagliata per sviluppare un programma Python che automatizza l'ordinamento dei mod di Kenshi, evitando conflitti.
+Analisi completa per sviluppare un programma Python che automatizzi l'ordinamento dei mod di Kenshi, evitando conflitti.
 
-## Premesse
+## Premesse 
+Kenshi carica i mod seguendo un ordine definito in un file specifico. Un ordine scorretto genera conflitti e problemi di compatibilità.
 
-Kenshi carica i mod in base a un ordine preciso. Errori nell'ordine causano conflitti.
+## Identificazione e Raccolta dati dei Mod 
+Il programma lavora su una cartella configurabile contenente tutti i mod di Kenshi scaricati da Steam Workshop.
+Percorso predefinito della cartella Steam:
 
-## 1. Identificazione dei Mod
+D:\Steam\steamapps\workshop\content\233860 
+In questa cartella ci sono sottocartelle numerate con l’ID del mod, ad esempio:
 
-Il programma opererà su una cartella configurabile contenente i mod di Kenshi.
+D:\Steam\steamapps\workshop\content\233860\705119823 D:\Steam\steamapps\workshop\content\233860\726254871 All'interno di ogni sottocartella (ID del mod) ci sono due file di interesse:
 
-**Percorso predefinito:**
+nomeDelMod.mod
 
-```
-D:\Steam\steamapps\workshop\content\233860
-```
+_nomeDelMod.info
 
-Dove `233860` è l'ID Steam di Kenshi. Ogni sottocartella ha nome numerico (ID Steam del mod), ad esempio:
+Dove nomeDelMod.mod è esattamente lo stesso nome presente nel file mods.cfg.
 
-```
-D:\Steam\steamapps\workshop\content\233860\705119823
-D:\Steam\steamapps\workshop\content\233860\726254871
-```
-
-Ogni mod dovrebbe contenere un file `.info` strutturato così:
+Struttura del file .info:
 
 ```xml
-<?xml version="1.0"?>
-<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <id>726254871</id>
-  <mod>RecruitPrisoners</mod>
-  <title>Recruitable Prisoners - with dialogue (pls read description)</title>
-  <tags>
-    <string>Characters</string>
-    <string>Cheats</string>
-    <string>Gameplay</string>
-  </tags>
-  <visibility>0</visibility>
-  <lastUpdate>2022-01-25T14:15:04+11:00</lastUpdate>
-</ModData>
+<mod>
+    <id>726254871</id>
+    <name>RecruitPrisoners</name>
+    <tags>
+        <tag>Characters</tag>
+        <tag>Gameplay</tag>
+    </tags>
+    <version>0</version>
+    <date>2022-01-25T14:15:04+11:00</date>
+</mod>
 ```
+Le tags definiscono le categorie di appartenenza.
 
-Le `tags` definiscono la categoria.
+File di Ordinamento L'ordine di caricamento mod è definito nel file:
+D:\Steam\steamapps\common\Kenshi\data\mods.cfg 
 
-## 2. File di Ordinamento
-
-I mod vengono ordinati nel file:
-
-```
-D:\Steam\steamapps\common\Kenshi\data\mods.cfg
-```
-
-**Esempio di contenuto:**
+Esempio contenuto di mods.cfg:
 
 ```
 Project -Ultimate Anim Patch-.mod
 [1]----------[UI, Graphics, Performance]----------.mod
 [1.2]--------------------(Graphics).mod
+Nightvision+.mod
 ...
 [11]----------[Miscellanious]----------.mod
-```
 
-## 3. Prerequisiti
+## 3. Prerequisiti Necessari per funzionare:
 
-Sono necessari:
+Kenshi Load Order Organizer.mod
 
-* Kenshi Load Order Organizer.mod
-* Mod "segnaposto" (placeholder) predefiniti:
+Mod "segnaposto" (placeholder), che identificano le categorie e sotto-categorie di ordinamento.
+
+Elenco placeholder:
 
 ```
 [1]----------[UI, Graphics, Performance]----------.mod
@@ -85,57 +74,85 @@ Sono necessari:
 [10]----------[Economy]----------.mod
 [11]----------[Miscellanious]----------.mod
 ```
+Questi mod segnaposto servono da riferimenti per ordinare gli altri mod ed evitare conflitti.
 
-Questi mod fungono da categorie per ordinare gli altri mod ed evitare conflitti. Le categorie principali hanno numeri interi; le sottocategorie hanno numeri decimali.
+## Priorità di Ordinamento
 
-## 4. Regole di Ordinamento
+Se un mod ha più tags appartenenti a categorie differenti, prevale sempre la categoria più "in basso" (numero maggiore). Ad esempio:
+[8] prevale su [2]
 
-* Se un mod possiede più tag che corrispondono a più categorie diverse, prevale sempre quella più in basso (numerazione maggiore). Ad esempio, categoria `[8]` prevale su `[2]`, categoria `[3.1]` prevale su `[3]`.
-* Se un mod non ha tags (file `.info` mancante, corrotto, oppure elemento tags assente), verrà assegnato all'ultima categoria `[11] Miscellanious`.
-* Quando un mod viene inserito in una categoria, sarà collocato immediatamente sotto il relativo segnaposto, spostando verso il basso i mod già presenti.
+[3.1] prevale su [3]
 
-## 5. Masterlist aggiuntiva (masterlist.json)
+Se non è possibile leggere le tags (file .info corrotto o assente), il mod sarà inserito automaticamente nell'ultima categoria [11] Miscellanious.
 
-* È presente un file aggiuntivo `masterlist.json` che fornisce indicazioni precise sull'ordinamento per alcuni mod identificati dal nome del file `.mod` (non dall'ID).
-* La struttura del file `masterlist.json` contiene una lista di categorie numerate (Order) e il nome dei mod che vi appartengono.
-* Se un mod è presente in `masterlist.json`, il suo ordinamento deve rispettare esclusivamente la categoria definita dal file. Non è necessario rispettare la posizione interna precisa, il mod deve soltanto apparire nella categoria specificata dal file masterlist.
+Ogni mod viene inserito immediatamente sotto al segnaposto della categoria selezionata, facendo scalare di posizione i mod già presenti.
 
-## 6. Processo di Ordinamento
+Masterlist (masterlist.json) Esiste un file aggiuntivo masterlist.json contenente ulteriori informazioni di ordinamento per alcuni mod identificati dal nome del file .mod.
+Il file masterlist.json contiene una lista di categorie numerate (Order) e i nomi esatti dei mod che devono appartenere a quella categoria.
 
-### Step 1 - Lettura configurazione attuale
+Se un mod è presente nella masterlist.json, l'ordinamento rispetta esclusivamente la categoria specificata in questo file. Non è necessario rispettare la posizione precisa all'interno della categoria, solo la categoria stessa.
 
-* Leggere il contenuto originale di `mods.cfg` e salvare i nomi in un array denominato `nomiModsTestuali`.
+Processo dettagliato di Ordinamento 
+## Step 1 – Lettura mods.cfg Leggere mods.cfg salvando i nomi originali in un array nomiModsTestuali.
 
-### Step 2 - Lettura informazioni dai mod
+## Step 2 – Lettura informazioni mod e creazione database locale Scansionare le sottocartelle dei mod.
 
-* Scansionare la cartella dei mod e leggere il file `.info` per ciascun mod.
-* Salvare ogni informazione in un oggetto `modInfo`, contenente: nome mod, ID, tags.
-* In caso di errori (mancanza o file corrotto), loggare l'errore.
+Per ogni cartella, leggere il file .mod e _*.info.
 
-### Step 3 - Creazione lista ordinata
+Creare un oggetto dati per ogni mod contenente:
 
-* Creare una lista `modsOrdinati` contenente inizialmente solo i mod segnaposto.
-* Per ciascun mod in `nomiModsTestuali`:
+id: ID Steam (dalla cartella)
+nome_mod: Nome del file .mod
+file_info: Nome file .info
+cartella: Percorso completo della cartella mod
+tags: Tags ottenute dal file .info
+in_masterlist: booleano che indica presenza in masterlist.json
 
-  * Verificare se il mod è presente nella `masterlist.json`. Se sì, utilizzare la categoria definita nel file.
-  * Altrimenti, verificare se il mod ha tags leggendo da `modInfo`:
+Salvare queste informazioni in un "database" locale (ad esempio un file mods_db.json) per accesso rapido nei successivi riavvii.
 
-    * Se sì, scegliere la categoria con priorità più alta (numerazione più alta).
-    * Se no, inserire in `[11] Miscellanious`.
-  * Inserire il mod subito sotto al segnaposto della categoria scelta, facendo scalare gli altri mod.
-  * Loggare chiaramente l'operazione.
+## Step 3 – Creazione lista ordinata finale (con uso DB locale)
+Per ogni mod presente nell'array nomiModsTestuali:
 
-### Step 4 - Gestione aggiunte e rimozioni
+Controlla il Database Locale:
 
-* Se nella cartella mod ci sono mod nuovi, non presenti in `mods.cfg`, inserirli in fondo alla categoria di pertinenza (sempre secondo priorità tag o masterlist).
-* Se mod sono stati rimossi dalla cartella, eliminarli automaticamente dalla nuova versione di `mods.cfg`.
-* Loggare chiaramente ogni inserimento o rimozione.
+Se il mod non è presente nel database locale:
 
-### Step 5 - Scrittura file ordinato
+Controlla la masterlist.json.
 
-* Scrivere la lista finale di `modsOrdinati` nel file `mods.cfg`.
+Se è nella masterlist:
 
-## 7. Logging ed Error Handling
+inserisci il mod sotto la categoria indicata dalla masterlist.
 
-Ogni decisione presa (categoria scelta, mod inseriti, rimossi, problemi riscontrati) sarà chiaramente loggata con struttura dettagliata.
+salva questa informazione (categoria della masterlist e flag in_masterlist = True) nel DB locale.
 
+Se non è nemmeno nella masterlist:
+
+leggi il file .info se disponibile per ricavare le tags, altrimenti assegnalo alla categoria [11] Miscellanious.
+
+Salva tutte queste informazioni (tags, categoria selezionata, flag in_masterlist = False) nel DB locale.
+
+Se il mod è già presente nel database locale:
+
+Controlla se ha il flag in_masterlist impostato su True:
+
+Se sì, utilizza direttamente la categoria salvata nel database locale.
+
+Se in_masterlist è False:
+
+Utilizza le informazioni sulle tags presenti nel database locale per determinare la categoria.
+
+Inserisci il mod immediatamente sotto il segnaposto della categoria selezionata, spostando gli altri mod verso il basso.
+
+Logga chiaramente ogni decisione, evidenziando se la scelta è stata fatta usando il DB locale, masterlist o nuova lettura del file .info.
+
+## Step 4 – Gestione aggiunte e rimozioni
+Mod nuovi: Se ci sono mod nella cartella Steam assenti in mods.cfg, inserirli alla fine della categoria corretta (seguendo sempre le regole precedenti).
+
+Mod rimossi: Mod rimossi dalla cartella Steam vanno automaticamente eliminati da mods.cfg.
+
+Loggare ogni aggiunta e rimozione chiaramente.
+
+## Step 5 – Scrittura mods.cfg
+Salvare la lista finale ordinata modsOrdinati nel file mods.cfg.
+
+Logging ed Error Handling Tutte le operazioni (letture, inserimenti, rimozioni, errori) devono essere chiaramente loggate in un file o console per facilitare manutenzione e debug.

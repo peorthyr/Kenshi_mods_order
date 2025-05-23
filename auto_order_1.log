@@ -1,0 +1,364 @@
+2025-05-23 15:36:36,337 - INFO - Inizio del processo di ordinamento dei mod...
+2025-05-23 15:36:36,337 - DEBUG - Caricamento del file masterlist.json...
+2025-05-23 15:36:36,338 - INFO - Masterlist caricata con successo: 11 mod trovati.
+2025-05-23 15:36:36,338 - DEBUG - Caricamento del database locale mods_db.json...
+2025-05-23 15:36:36,338 - INFO - Database locale caricato con successo: 222 mod trovati.
+2025-05-23 15:36:36,338 - DEBUG - Lettura del file mods.cfg...
+2025-05-23 15:36:36,339 - INFO - File mods.cfg letto con successo: 111 mod trovati.
+2025-05-23 15:36:36,339 - DEBUG - Scansione della cartella dei mod...
+2025-05-23 15:36:36,339 - DEBUG - Informazioni lette dal file .info: {'id': '1195041057', 'name': 'Towns Root.mod', 'tags': ['Characters', 'Environment/Map', 'Factions']}
+2025-05-23 15:36:36,340 - DEBUG - Informazioni lette dal file .info: {'id': '1358096888', 'name': 'Reactive World.mod', 'tags': ['Characters', 'Environment/Map', 'Factions', 'Gameplay']}
+2025-05-23 15:36:36,340 - DEBUG - Informazioni lette dal file .info: {'id': '1470372482', 'name': 'Reduced Particle Effects.mod', 'tags': ['Environment/Map', 'Graphical']}
+2025-05-23 15:36:36,340 - DEBUG - Informazioni lette dal file .info: {'id': '1581929438', 'name': 'shoppingecon.mod', 'tags': ['Gameplay']}
+2025-05-23 15:36:36,341 - DEBUG - Informazioni lette dal file .info: {'id': '1618523919', 'name': 'Nightvision+.mod', 'tags': ['Environment/Map', 'Gameplay', 'Graphical']}
+2025-05-23 15:36:36,341 - DEBUG - Informazioni lette dal file .info: {'id': '1630021836', 'name': 'Reduced Weather Effects.mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,341 - DEBUG - Informazioni lette dal file .info: {'id': '1630760930', 'name': 'AnimationOverhaul.mod', 'tags': ['Graphical', 'Items/Weapons', 'Total Overhaul']}
+2025-05-23 15:36:36,342 - DEBUG - Informazioni lette dal file .info: {'id': '1649794243', 'name': 'Compressed Textures Project.mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,342 - DEBUG - Informazioni lette dal file .info: {'id': '1658170081', 'name': 'Trade Prices.mod', 'tags': ['Factions', 'Gameplay']}
+2025-05-23 15:36:36,342 - DEBUG - Informazioni lette dal file .info: {'id': '1668847363', 'name': 'Kenkyaku_idle_01.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,342 - DEBUG - Informazioni lette dal file .info: {'id': '1671502407', 'name': 'Community Part Map.mod', 'tags': ['Characters', 'Clothing/Armour', 'Graphical', 'Races']}
+2025-05-23 15:36:36,343 - DEBUG - Informazioni lette dal file .info: {'id': '1678049479', 'name': 'Fixing Clipping Issues.mod', 'tags': ['Clothing/Armour']}
+2025-05-23 15:36:36,343 - DEBUG - Informazioni lette dal file .info: {'id': '1691422256', 'name': 'More Combat Animation.mod', 'tags': ['Characters', 'Gameplay']}
+2025-05-23 15:36:36,343 - DEBUG - Informazioni lette dal file .info: {'id': '1723542142', 'name': 'Idle Stands.mod', 'tags': ['Buildings', 'Characters', 'Gameplay', 'Items/Weapons']}
+2025-05-23 15:36:36,344 - DEBUG - Informazioni lette dal file .info: {'id': '1870611566', 'name': 'More Combat Stance MIA+.mod', 'tags': ['Characters', 'Gameplay']}
+2025-05-23 15:36:36,344 - DEBUG - Informazioni lette dal file .info: {'id': '1892771436', 'name': 'Weird recruit.mod', 'tags': ['Characters', 'Clothing/Armour', 'Gameplay', 'Items/Weapons']}
+2025-05-23 15:36:36,344 - DEBUG - Informazioni lette dal file .info: {'id': '1977679759', 'name': 'Kenshi_rewritten.mod', 'tags': ['Gameplay', 'GUI']}
+2025-05-23 15:36:36,345 - DEBUG - Informazioni lette dal file .info: {'id': '1996829229', 'name': 'yet_another_kenshi_nude_mod.mod', 'tags': ['Characters', 'Clothing/Armour']}
+2025-05-23 15:36:36,345 - DEBUG - Informazioni lette dal file .info: {'id': '2007492437', 'name': 'Idle Stands Patch.mod', 'tags': ['Buildings', 'Characters', 'Gameplay', 'Items/Weapons']}
+2025-05-23 15:36:36,345 - DEBUG - Informazioni lette dal file .info: {'id': '2013487537', 'name': '42 Unique Recruits.mod', 'tags': ['Characters', 'Factions', 'Races']}
+2025-05-23 15:36:36,346 - DEBUG - Informazioni lette dal file .info: {'id': '2040742402', 'name': 'Project Limos.mod', 'tags': ['Buildings', 'Gameplay']}
+2025-05-23 15:36:36,346 - DEBUG - Informazioni lette dal file .info: {'id': '2133953660', 'name': 'More Sitting Animation.mod', 'tags': []}
+2025-05-23 15:36:36,346 - DEBUG - Informazioni lette dal file .info: {'id': '2228579107', 'name': 'Genesis.mod', 'tags': ['Total Overhaul']}
+2025-05-23 15:36:36,347 - DEBUG - Informazioni lette dal file .info: {'id': '2246962386', 'name': 'Project -Ultimate Anim Patch-.mod', 'tags': ['Gameplay']}
+2025-05-23 15:36:36,347 - DEBUG - Informazioni lette dal file .info: {'id': '2337988885', 'name': 'Underwear Restored.mod', 'tags': ['Clothing/Armour']}
+2025-05-23 15:36:36,348 - DEBUG - Informazioni lette dal file .info: {'id': '2374039537', 'name': 'Heavy weapon combat stance [MCS patch].mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,348 - DEBUG - Informazioni lette dal file .info: {'id': '2374040943', 'name': 'Heavy weapon combat stance.mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,348 - DEBUG - Informazioni lette dal file .info: {'id': '2377416273', 'name': 'More Dogs.mod', 'tags': ['Clothing/Armour', 'Environment/Map', 'Factions', 'Gameplay', 'Races']}
+2025-05-23 15:36:36,349 - DEBUG - Informazioni lette dal file .info: {'id': '2379749116', 'name': 'BigBusiness.mod', 'tags': ['Gameplay']}
+2025-05-23 15:36:36,349 - DEBUG - Informazioni lette dal file .info: {'id': '2480986780', 'name': 'PolearmBladesUP.mod', 'tags': ['Gameplay', 'Graphical', 'Items/Weapons']}
+2025-05-23 15:36:36,349 - DEBUG - Informazioni lette dal file .info: {'id': '2508412096', 'name': 'RadiantFaces.mod', 'tags': ['Characters', 'Graphical', 'Races']}
+2025-05-23 15:36:36,350 - DEBUG - Informazioni lette dal file .info: {'id': '2584116181', 'name': 'Better Night Sky and Planet Textures.mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,350 - DEBUG - Informazioni lette dal file .info: {'id': '2610399054', 'name': 'Metal Framework.mod', 'tags': ['Buildings', 'Gameplay', 'Graphical', 'GUI']}
+2025-05-23 15:36:36,350 - DEBUG - Informazioni lette dal file .info: {'id': '2650113754', 'name': 'FlavorText+.mod', 'tags': ['Items/Weapons']}
+2025-05-23 15:36:36,351 - DEBUG - Informazioni lette dal file .info: {'id': '2692142481', 'name': 'Immersive non-combat animations.mod', 'tags': ['Characters', 'Graphical', 'Races']}
+2025-05-23 15:36:36,351 - DEBUG - Informazioni lette dal file .info: {'id': '2714086775', 'name': 'Unofficial Patches for Kenshi.mod', 'tags': ['Buildings', 'Characters', 'Clothing/Armour', 'Environment/Map', 'Factions', 'Gameplay', 'Graphical', 'Items/Weapons', 'Races', 'Research', 'Total Overhaul']}
+2025-05-23 15:36:36,351 - DEBUG - Informazioni lette dal file .info: {'id': '2725549481', 'name': 'Great Anims Mod.mod', 'tags': ['Gameplay']}
+2025-05-23 15:36:36,352 - DEBUG - Informazioni lette dal file .info: {'id': '2786795820', 'name': 'CBT Vanilla Hair Fix.mod', 'tags': ['Characters', 'Clothing/Armour', 'Graphical']}
+2025-05-23 15:36:36,352 - DEBUG - Informazioni lette dal file .info: {'id': '2798970824', 'name': 'SheeshSkins x MaleGreenlanderFace.mod', 'tags': ['Characters', 'Races']}
+2025-05-23 15:36:36,352 - DEBUG - Informazioni lette dal file .info: {'id': '2800302311', 'name': 'KPM_Performance_Particles.mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,352 - DEBUG - Informazioni lette dal file .info: {'id': '2802013872', 'name': 'SheeshSkins x FemaleGreenlanderFace.mod', 'tags': ['Characters', 'Races']}
+2025-05-23 15:36:36,353 - DEBUG - Informazioni lette dal file .info: {'id': '2810262017', 'name': 'sleepanim.mod', 'tags': ['Characters', 'Gameplay', 'Total Overhaul']}
+2025-05-23 15:36:36,353 - DEBUG - Informazioni lette dal file .info: {'id': '2815799376', 'name': 'SheeshSkins x FemaleScorchlanderFace.mod', 'tags': ['Characters', 'Races']}
+2025-05-23 15:36:36,354 - DEBUG - Informazioni lette dal file .info: {'id': '2824281270', 'name': 'IdlePose_Caeda.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,354 - DEBUG - Informazioni lette dal file .info: {'id': '2853641828', 'name': 'Animal Variations.mod', 'tags': ['Characters', 'Races']}
+2025-05-23 15:36:36,354 - DEBUG - Informazioni lette dal file .info: {'id': '2862368638', 'name': 'Kenshi Load Order Organizer.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,355 - DEBUG - Informazioni lette dal file .info: {'id': '2862389603', 'name': '[1]----------[UI, Graphics, Performance]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,355 - DEBUG - Informazioni lette dal file .info: {'id': '2862389694', 'name': '[2]----------[Animations]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,355 - DEBUG - Informazioni lette dal file .info: {'id': '2862389766', 'name': '[3]----------[New Races, Race edit, Cosmetics]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,355 - DEBUG - Informazioni lette dal file .info: {'id': '2862389853', 'name': '[4]----------[Game Starts, Minor NPC, Animals]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,356 - DEBUG - Informazioni lette dal file .info: {'id': '2862389936', 'name': '[5]----------[Faction edits, Minor Faction, Bounties]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,356 - DEBUG - Informazioni lette dal file .info: {'id': '2862391014', 'name': '[6]----------[Buildings]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,356 - DEBUG - Informazioni lette dal file .info: {'id': '2862392262', 'name': '[7]----------[Armor & Weapons]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,357 - DEBUG - Informazioni lette dal file .info: {'id': '2862394641', 'name': '[8]----------[Overhauls & World Changes]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,357 - DEBUG - Informazioni lette dal file .info: {'id': '2862395130', 'name': '[9]----------[Patches]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,357 - DEBUG - Informazioni lette dal file .info: {'id': '2862397536', 'name': '[10]----------[Economy]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,358 - DEBUG - Informazioni lette dal file .info: {'id': '2887493022', 'name': 'IdlePose_Ayanami.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,358 - DEBUG - Informazioni lette dal file .info: {'id': '2894978661', 'name': 'Strategic Ambiguity.mod', 'tags': ['Factions', 'Gameplay']}
+2025-05-23 15:36:36,358 - DEBUG - Informazioni lette dal file .info: {'id': '2895455760', 'name': 'NO Human ladies muscle def, but thicc shek babes are fine.mod', 'tags': ['Characters', 'Graphical', 'Races']}
+2025-05-23 15:36:36,359 - DEBUG - Informazioni lette dal file .info: {'id': '2912420926', 'name': '[11]----------[Miscellanious]----------.mod', 'tags': ['GUI']}
+2025-05-23 15:36:36,359 - DEBUG - Informazioni lette dal file .info: {'id': '2913798392', 'name': '01.mod', 'tags': ['Clothing/Armour', 'Graphical', 'Characters']}
+2025-05-23 15:36:36,359 - DEBUG - Informazioni lette dal file .info: {'id': '2922713981', 'name': 'DigCombatAnimation.mod', 'tags': ['Gameplay']}
+2025-05-23 15:36:36,360 - DEBUG - Informazioni lette dal file .info: {'id': '2936262493', 'name': 'CBT YANM & Community Part Map -  Invisible Arms Fix.mod', 'tags': ['Graphical']}
+2025-05-23 15:36:36,360 - DEBUG - Informazioni lette dal file .info: {'id': '2950824375', 'name': 'IdlePose_Hands_behind_Back.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,360 - DEBUG - Informazioni lette dal file .info: {'id': '2977091082', 'name': 'Portable Dried Meat Storage.mod', 'tags': ['Buildings', 'Gameplay', 'Items/Weapons']}
+2025-05-23 15:36:36,361 - DEBUG - Informazioni lette dal file .info: {'id': '2982489314', 'name': 'Animal Variations Patch.mod', 'tags': ['Gameplay']}
+2025-05-23 15:36:36,361 - DEBUG - Informazioni lette dal file .info: {'id': '2989327082', 'name': '[1.2]--------------------(Graphics).mod', 'tags': ['Graphical', 'GUI']}
+2025-05-23 15:36:36,361 - DEBUG - Informazioni lette dal file .info: {'id': '2989327339', 'name': '[1.3]--------------------(Performance).mod', 'tags': ['Graphical', 'GUI']}
+2025-05-23 15:36:36,362 - DEBUG - Informazioni lette dal file .info: {'id': '2989335298', 'name': '[8.1]--------------------(Combat).mod', 'tags': ['Graphical', 'GUI']}
+2025-05-23 15:36:36,362 - DEBUG - Informazioni lette dal file .info: {'id': '2989336355', 'name': '[9.2]--------------------(Animation Patches).mod', 'tags': ['Graphical', 'GUI']}
+2025-05-23 15:36:36,363 - DEBUG - Informazioni lette dal file .info: {'id': '3042247461', 'name': 'MCA Battle Fury.mod', 'tags': ['Characters', 'Gameplay', 'Races', 'Total Overhaul']}
+2025-05-23 15:36:36,363 - DEBUG - Informazioni lette dal file .info: {'id': '3047829102', 'name': 'Great Anims_Rebalance.mod', 'tags': ['Gameplay', 'Items/Weapons']}
+2025-05-23 15:36:36,363 - DEBUG - Informazioni lette dal file .info: {'id': '3047884128', 'name': 'DigCombat_skill_limits.mod', 'tags': ['Gameplay', 'Items/Weapons']}
+2025-05-23 15:36:36,364 - DEBUG - Informazioni lette dal file .info: {'id': '3051787398', 'name': 'roro hair.mod', 'tags': ['Characters', 'Races']}
+2025-05-23 15:36:36,364 - DEBUG - Informazioni lette dal file .info: {'id': '3053103794', 'name': 'YAKNM - Collection Pack.mod', 'tags': ['Characters', 'Clothing/Armour', 'Graphical']}
+2025-05-23 15:36:36,364 - DEBUG - Informazioni lette dal file .info: {'id': '3066628535', 'name': 'Animation - Collection Pack.mod', 'tags': ['Characters', 'Gameplay']}
+2025-05-23 15:36:36,365 - DEBUG - Informazioni lette dal file .info: {'id': '3105983683', 'name': 'IdlePose_Idol.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,365 - DEBUG - Informazioni lette dal file .info: {'id': '3182981282', 'name': 'Clothing and Light Armor.mod', 'tags': ['Clothing/Armour', 'Gameplay', 'Graphical', 'Research']}
+2025-05-23 15:36:36,365 - DEBUG - Informazioni lette dal file .info: {'id': '3186856217', 'name': 'Pathfinding - Collection Pack.mod', 'tags': ['Characters', 'Gameplay', 'Races', 'Total Overhaul']}
+2025-05-23 15:36:36,366 - DEBUG - Informazioni lette dal file .info: {'id': '3210486754', 'name': 'Armor - Collection Pack.mod', 'tags': ['Clothing/Armour', 'Items/Weapons', 'Research']}
+2025-05-23 15:36:36,366 - DEBUG - Informazioni lette dal file .info: {'id': '3263005742', 'name': 'Dropped in Style.mod', 'tags': ['Clothing/Armour', 'Graphical', 'Items/Weapons']}
+2025-05-23 15:36:36,366 - DEBUG - Informazioni lette dal file .info: {'id': '3263012276', 'name': 'Slightly Adjusted Blunt Weapons.mod', 'tags': ['Graphical', 'Items/Weapons']}
+2025-05-23 15:36:36,367 - DEBUG - Informazioni lette dal file .info: {'id': '3292169203', 'name': 'BetterVendorLists.mod', 'tags': ['Clothing/Armour', 'Gameplay', 'Items/Weapons', 'Total Overhaul']}
+2025-05-23 15:36:36,367 - DEBUG - Informazioni lette dal file .info: {'id': '3295047328', 'name': 'MoodLighting.mod', 'tags': ['Graphical', 'Total Overhaul']}
+2025-05-23 15:36:36,367 - DEBUG - Informazioni lette dal file .info: {'id': '3300660383', 'name': 'MoodWeather.mod', 'tags': ['Environment/Map', 'Graphical', 'Total Overhaul']}
+2025-05-23 15:36:36,368 - DEBUG - Informazioni lette dal file .info: {'id': '3303090579', 'name': 'CrunkTweakCompilation.mod', 'tags': ['Gameplay', 'Total Overhaul']}
+2025-05-23 15:36:36,368 - DEBUG - Informazioni lette dal file .info: {'id': '3306192135', 'name': 'HHI_Character_Retexture.mod', 'tags': ['Characters', 'Graphical', 'Races']}
+2025-05-23 15:36:36,368 - DEBUG - Informazioni lette dal file .info: {'id': '3324685825', 'name': 'HHI_Character_Retexture patch.mod', 'tags': ['Races']}
+2025-05-23 15:36:36,369 - DEBUG - Informazioni lette dal file .info: {'id': '3328905177', 'name': 'FASTR.mod', 'tags': ['Environment/Map', 'Graphical', 'Total Overhaul']}
+2025-05-23 15:36:36,369 - DEBUG - Informazioni lette dal file .info: {'id': '3335405934', 'name': 'JF HackersReskinned.mod', 'tags': ['Graphical', 'Items/Weapons']}
+2025-05-23 15:36:36,369 - DEBUG - Informazioni lette dal file .info: {'id': '3354551586', 'name': 'Many More Beards.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,369 - DEBUG - Informazioni lette dal file .info: {'id': '3358288516', 'name': 'Many More Hairs.mod', 'tags': ['Characters']}
+2025-05-23 15:36:36,370 - DEBUG - Informazioni lette dal file .info: {'id': '3379831802', 'name': 'Accurate Zones Patch.mod', 'tags': ['Environment/Map', 'Gameplay']}
+2025-05-23 15:36:36,370 - DEBUG - Informazioni lette dal file .info: {'id': '3386876024', 'name': 'NudeMod+18 vanilla.mod', 'tags': ['Characters', 'Gameplay', 'Graphical', 'Races']}
+2025-05-23 15:36:36,370 - DEBUG - Informazioni lette dal file .info: {'id': '3386939298', 'name': 'Re Faces.mod', 'tags': ['Characters', 'Factions', 'Gameplay', 'Graphical', 'Races']}
+2025-05-23 15:36:36,371 - DEBUG - Informazioni lette dal file .info: {'id': '3392901904', 'name': 'KPM_LEM.mod', 'tags': ['Environment/Map', 'Graphical']}
+2025-05-23 15:36:36,371 - DEBUG - Informazioni lette dal file .info: {'id': '3400528309', 'name': 'Pretty Stuff.mod', 'tags': ['Graphical', 'Items/Weapons']}
+2025-05-23 15:36:36,371 - DEBUG - Informazioni lette dal file .info: {'id': '3402165999', 'name': 'FASTR Reactive World.mod', 'tags': ['Environment/Map', 'Total Overhaul']}
+2025-05-23 15:36:36,372 - DEBUG - Informazioni lette dal file .info: {'id': '3404894834', 'name': 'RadiantFacesFixes.mod', 'tags': ['Characters', 'Graphical', 'Races']}
+2025-05-23 15:36:36,372 - DEBUG - Informazioni lette dal file .info: {'id': '3405818838', 'name': '256 Recruits - V.1.0.68.mod', 'tags': ['Characters', 'Cheats', 'Factions', 'Gameplay']}
+2025-05-23 15:36:36,372 - DEBUG - Informazioni lette dal file .info: {'id': '3413231341', 'name': 'BeautifulBodiesAndFaces.mod', 'tags': ['Characters', 'Graphical', 'Races']}
+2025-05-23 15:36:36,373 - DEBUG - Informazioni lette dal file .info: {'id': '3414426475', 'name': 'BBAFMegapatch.mod', 'tags': ['Characters', 'Graphical', 'GUI', 'Races']}
+2025-05-23 15:36:36,373 - DEBUG - Informazioni lette dal file .info: {'id': '3426253797', 'name': 'Heightmap Fix.mod', 'tags': ['Environment/Map', 'Graphical', 'Total Overhaul']}
+2025-05-23 15:36:36,373 - DEBUG - Informazioni lette dal file .info: {'id': '3436435538', 'name': 'Henkas Bar Mod.mod', 'tags': ['Buildings', 'Environment/Map', 'Total Overhaul']}
+2025-05-23 15:36:36,374 - DEBUG - Informazioni lette dal file .info: {'id': '3436658018', 'name': 'CATO Reactive World.mod', 'tags': ['Buildings', 'Environment/Map', 'GUI', 'Total Overhaul']}
+2025-05-23 15:36:36,374 - DEBUG - Informazioni lette dal file .info: {'id': '3477292843', 'name': 'ReWeapon.mod', 'tags': ['Graphical', 'Items/Weapons', 'Research']}
+2025-05-23 15:36:36,374 - DEBUG - Informazioni lette dal file .info: {'id': '705119823', 'name': '256 Squad Limit.mod', 'tags': ['Characters', 'Gameplay']}
+2025-05-23 15:36:36,375 - DEBUG - Informazioni lette dal file .info: {'id': '726254871', 'name': 'RecruitPrisoners.mod', 'tags': ['Characters', 'Cheats', 'Gameplay']}
+2025-05-23 15:36:36,375 - DEBUG - Informazioni lette dal file .info: {'id': '838054044', 'name': 'citizens.mod', 'tags': ['Characters', 'Factions', 'Gameplay']}
+2025-05-23 15:36:36,375 - DEBUG - Informazioni lette dal file .info: {'id': '893422439', 'name': 'Copper drill.mod', 'tags': ['Buildings', 'Gameplay', 'Research']}
+2025-05-23 15:36:36,376 - DEBUG - Informazioni lette dal file .info: {'id': '913241774', 'name': "Shidan's Tweaks & Fixes.mod", 'tags': ['Buildings', 'Characters', 'Clothing/Armour', 'Factions', 'Gameplay', 'Items/Weapons', 'Research']}
+2025-05-23 15:36:36,376 - INFO - Scansione completata: 111 mod trovati.
+2025-05-23 15:36:36,376 - DEBUG - Aggiornamento del database locale...
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Project -Ultimate Anim Patch-.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[1]----------[UI, Graphics, Performance]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[1.2]--------------------(Graphics).mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Nightvision+.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[1.3]--------------------(Performance).mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Weird recruit.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[2]----------[Animations]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'More Sitting Animation.mod' trovato nel database con categoria: [11]----------[Miscellanious]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[4]----------[Game Starts, Minor NPC, Animals]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[5]----------[Faction edits, Minor Faction, Bounties]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[3]----------[New Races, Race edit, Cosmetics]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[6]----------[Buildings]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Project Limos.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[7]----------[Armor & Weapons]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Underwear Restored.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[8]----------[Overhauls & World Changes]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Genesis.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Trade Prices.mod' trovato nel database con categoria: [5]----------[Faction edits, Minor Faction, Bounties]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[8.1]--------------------(Combat).mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,376 - DEBUG - Mod 'Kenkyaku_idle_01.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,376 - DEBUG - Mod '[9]----------[Patches]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Community Part Map.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod '[9.2]--------------------(Animation Patches).mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Compressed Textures Project.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Fixing Clipping Issues.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod '[10]----------[Economy]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'shoppingecon.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Heavy weapon combat stance [MCS patch].mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod '[11]----------[Miscellanious]----------.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'PolearmBladesUP.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Kenshi_rewritten.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'yet_another_kenshi_nude_mod.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod '42 Unique Recruits.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'BigBusiness.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Idle Stands.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'More Dogs.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Reduced Weather Effects.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'More Combat Animation.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Heavy weapon combat stance.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Reduced Particle Effects.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'AnimationOverhaul.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'More Combat Stance MIA+.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'RadiantFaces.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Better Night Sky and Planet Textures.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'RadiantFacesFixes.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Reactive World.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Idle Stands Patch.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'FlavorText+.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'roro hair.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Metal Framework.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod '256 Recruits - V.1.0.68.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Immersive non-combat animations.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Unofficial Patches for Kenshi.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'DigCombat_skill_limits.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'Great Anims_Rebalance.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,377 - DEBUG - Mod 'MCA Battle Fury.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Pretty Stuff.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'FASTR Reactive World.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'BetterVendorLists.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'MoodWeather.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'HHI_Character_Retexture.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'FASTR.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Many More Beards.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Accurate Zones Patch.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Re Faces.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'RecruitPrisoners.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod '256 Squad Limit.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'ReWeapon.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'CATO Reactive World.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Henkas Bar Mod.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Heightmap Fix.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'BBAFMegapatch.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Shidan's Tweaks & Fixes.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'IdlePose_Ayanami.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Strategic Ambiguity.mod' trovato nel database con categoria: [5]----------[Faction edits, Minor Faction, Bounties]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'NO Human ladies muscle def, but thicc shek babes are fine.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'BeautifulBodiesAndFaces.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod '01.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'DigCombatAnimation.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'CBT YANM & Community Part Map -  Invisible Arms Fix.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'IdlePose_Hands_behind_Back.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Portable Dried Meat Storage.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Animal Variations Patch.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Great Anims Mod.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,378 - DEBUG - Mod 'Animation - Collection Pack.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'YAKNM - Collection Pack.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Dropped in Style.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'IdlePose_Idol.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Pathfinding - Collection Pack.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'CBT Vanilla Hair Fix.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Clothing and Light Armor.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'SheeshSkins x MaleGreenlanderFace.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Armor - Collection Pack.mod' trovato nel database con categoria: [7]----------[Armor & Weapons]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'KPM_Performance_Particles.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Slightly Adjusted Blunt Weapons.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'SheeshSkins x FemaleGreenlanderFace.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'MoodLighting.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'sleepanim.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'CrunkTweakCompilation.mod' trovato nel database con categoria: [8.1]--------------------(Combat).mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'SheeshSkins x FemaleScorchlanderFace.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'HHI_Character_Retexture patch.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'IdlePose_Caeda.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'JF HackersReskinned.mod' trovato nel database con categoria: [1.2]--------------------(Graphics).mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Animal Variations.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Many More Hairs.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Kenshi Load Order Organizer.mod' trovato nel database con categoria: [1]----------[UI, Graphics, Performance]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'NudeMod+18 vanilla.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Copper drill.mod' trovato nel database con categoria: [6]----------[Buildings]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'KPM_LEM.mod' trovato nel database con categoria: [8]----------[Overhauls & World Changes]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'citizens.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Towns Root.mod' trovato nel database con categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod
+2025-05-23 15:36:36,379 - DEBUG - Creazione della lista ordinata dei mod...
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Project -Ultimate Anim Patch-.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,379 - DEBUG - Mod segnaposto '[1]----------[UI, Graphics, Performance]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,379 - DEBUG - Mod segnaposto '[1.2]--------------------(Graphics).mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Nightvision+.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,379 - DEBUG - Mod segnaposto '[1.3]--------------------(Performance).mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,379 - DEBUG - Mod 'Weird recruit.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[2]----------[Animations]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'More Sitting Animation.mod' aggiunto alla categoria '[11]----------[Miscellanious]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[4]----------[Game Starts, Minor NPC, Animals]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[5]----------[Faction edits, Minor Faction, Bounties]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[3]----------[New Races, Race edit, Cosmetics]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[6]----------[Buildings]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Project Limos.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[7]----------[Armor & Weapons]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Underwear Restored.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[8]----------[Overhauls & World Changes]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Genesis.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Trade Prices.mod' aggiunto alla categoria '[5]----------[Faction edits, Minor Faction, Bounties]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[8.1]--------------------(Combat).mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Kenkyaku_idle_01.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[9]----------[Patches]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Community Part Map.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[9.2]--------------------(Animation Patches).mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Compressed Textures Project.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Fixing Clipping Issues.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[10]----------[Economy]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'shoppingecon.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Heavy weapon combat stance [MCS patch].mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod segnaposto '[11]----------[Miscellanious]----------.mod' ignorato durante il raggruppamento.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'PolearmBladesUP.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Kenshi_rewritten.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'yet_another_kenshi_nude_mod.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod '42 Unique Recruits.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'BigBusiness.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Idle Stands.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'More Dogs.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Reduced Weather Effects.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'More Combat Animation.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Heavy weapon combat stance.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'Reduced Particle Effects.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,380 - DEBUG - Mod 'AnimationOverhaul.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'More Combat Stance MIA+.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'RadiantFaces.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Better Night Sky and Planet Textures.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'RadiantFacesFixes.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Reactive World.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Idle Stands Patch.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'FlavorText+.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'roro hair.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Metal Framework.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod '256 Recruits - V.1.0.68.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Immersive non-combat animations.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Unofficial Patches for Kenshi.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'DigCombat_skill_limits.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Great Anims_Rebalance.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'MCA Battle Fury.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Pretty Stuff.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'FASTR Reactive World.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'BetterVendorLists.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'MoodWeather.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'HHI_Character_Retexture.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'FASTR.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Many More Beards.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Accurate Zones Patch.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Re Faces.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'RecruitPrisoners.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod '256 Squad Limit.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'ReWeapon.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'CATO Reactive World.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Henkas Bar Mod.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Heightmap Fix.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'BBAFMegapatch.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Shidan's Tweaks & Fixes.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'IdlePose_Ayanami.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,381 - DEBUG - Mod 'Strategic Ambiguity.mod' aggiunto alla categoria '[5]----------[Faction edits, Minor Faction, Bounties]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'NO Human ladies muscle def, but thicc shek babes are fine.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'BeautifulBodiesAndFaces.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod '01.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'DigCombatAnimation.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'CBT YANM & Community Part Map -  Invisible Arms Fix.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'IdlePose_Hands_behind_Back.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Portable Dried Meat Storage.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Animal Variations Patch.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Great Anims Mod.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Animation - Collection Pack.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'YAKNM - Collection Pack.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Dropped in Style.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'IdlePose_Idol.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Pathfinding - Collection Pack.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'CBT Vanilla Hair Fix.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Clothing and Light Armor.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'SheeshSkins x MaleGreenlanderFace.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Armor - Collection Pack.mod' aggiunto alla categoria '[7]----------[Armor & Weapons]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'KPM_Performance_Particles.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Slightly Adjusted Blunt Weapons.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'SheeshSkins x FemaleGreenlanderFace.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'MoodLighting.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'sleepanim.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'CrunkTweakCompilation.mod' aggiunto alla categoria '[8.1]--------------------(Combat).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'SheeshSkins x FemaleScorchlanderFace.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'HHI_Character_Retexture patch.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'IdlePose_Caeda.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'JF HackersReskinned.mod' aggiunto alla categoria '[1.2]--------------------(Graphics).mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Animal Variations.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Many More Hairs.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Kenshi Load Order Organizer.mod' aggiunto alla categoria '[1]----------[UI, Graphics, Performance]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'NudeMod+18 vanilla.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'Copper drill.mod' aggiunto alla categoria '[6]----------[Buildings]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'KPM_LEM.mod' aggiunto alla categoria '[8]----------[Overhauls & World Changes]----------.mod'.
+2025-05-23 15:36:36,382 - DEBUG - Mod 'citizens.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,383 - DEBUG - Mod 'Towns Root.mod' aggiunto alla categoria '[3]----------[New Races, Race edit, Cosmetics]----------.mod'.
+2025-05-23 15:36:36,383 - DEBUG - Categoria: [1]----------[UI, Graphics, Performance]----------.mod - Mods: ['Kenshi Load Order Organizer.mod']
+2025-05-23 15:36:36,383 - DEBUG - Categoria: [1.2]--------------------(Graphics).mod - Mods: ['Compressed Textures Project.mod', 'Heavy weapon combat stance [MCS patch].mod', 'Reduced Weather Effects.mod', 'Heavy weapon combat stance.mod', 'AnimationOverhaul.mod', 'Better Night Sky and Planet Textures.mod', 'Pretty Stuff.mod', 'ReWeapon.mod', 'CBT YANM & Community Part Map -  Invisible Arms Fix.mod', 'KPM_Performance_Particles.mod', 'Slightly Adjusted Blunt Weapons.mod', 'MoodLighting.mod', 'JF HackersReskinned.mod']
+2025-05-23 15:36:36,383 - DEBUG - Categoria: [1.3]--------------------(Performance).mod - Mods: []
+2025-05-23 15:36:36,383 - DEBUG - Categoria: [2]----------[Animations]----------.mod - Mods: []
+2025-05-23 15:36:36,384 - DEBUG - Categoria: [3]----------[New Races, Race edit, Cosmetics]----------.mod - Mods: ['Weird recruit.mod', 'Kenkyaku_idle_01.mod', 'Community Part Map.mod', 'yet_another_kenshi_nude_mod.mod', '42 Unique Recruits.mod', 'More Combat Animation.mod', 'More Combat Stance MIA+.mod', 'RadiantFaces.mod', 'RadiantFacesFixes.mod', 'Reactive World.mod', 'roro hair.mod', '256 Recruits - V.1.0.68.mod', 'Immersive non-combat animations.mod', 'MCA Battle Fury.mod', 'HHI_Character_Retexture.mod', 'Many More Beards.mod', 'Re Faces.mod', 'RecruitPrisoners.mod', '256 Squad Limit.mod', 'BBAFMegapatch.mod', 'IdlePose_Ayanami.mod', 'NO Human ladies muscle def, but thicc shek babes are fine.mod', 'BeautifulBodiesAndFaces.mod', 'IdlePose_Hands_behind_Back.mod', 'Animation - Collection Pack.mod', 'YAKNM - Collection Pack.mod', 'IdlePose_Idol.mod', 'Pathfinding - Collection Pack.mod', 'CBT Vanilla Hair Fix.mod', 'SheeshSkins x MaleGreenlanderFace.mod', 'SheeshSkins x FemaleGreenlanderFace.mod', 'sleepanim.mod', 'SheeshSkins x FemaleScorchlanderFace.mod', 'HHI_Character_Retexture patch.mod', 'IdlePose_Caeda.mod', 'Animal Variations.mod', 'Many More Hairs.mod', 'NudeMod+18 vanilla.mod', 'citizens.mod', 'Towns Root.mod']
+2025-05-23 15:36:36,384 - DEBUG - Categoria: [4]----------[Game Starts, Minor NPC, Animals]----------.mod - Mods: []
+2025-05-23 15:36:36,384 - DEBUG - Categoria: [5]----------[Faction edits, Minor Faction, Bounties]----------.mod - Mods: ['Trade Prices.mod', 'Strategic Ambiguity.mod']
+2025-05-23 15:36:36,384 - DEBUG - Categoria: [6]----------[Buildings]----------.mod - Mods: ['Project Limos.mod', 'Idle Stands.mod', 'Idle Stands Patch.mod', 'Metal Framework.mod', 'Unofficial Patches for Kenshi.mod', 'CATO Reactive World.mod', 'Henkas Bar Mod.mod', "Shidan's Tweaks & Fixes.mod", 'Portable Dried Meat Storage.mod', 'Copper drill.mod']
+2025-05-23 15:36:36,385 - DEBUG - Categoria: [7]----------[Armor & Weapons]----------.mod - Mods: ['Underwear Restored.mod', 'Fixing Clipping Issues.mod', 'More Dogs.mod', 'FlavorText+.mod', 'BetterVendorLists.mod', '01.mod', 'Dropped in Style.mod', 'Clothing and Light Armor.mod', 'Armor - Collection Pack.mod']
+2025-05-23 15:36:36,385 - DEBUG - Categoria: [8]----------[Overhauls & World Changes]----------.mod - Mods: ['Nightvision+.mod', 'Genesis.mod', 'Reduced Particle Effects.mod', 'FASTR Reactive World.mod', 'MoodWeather.mod', 'FASTR.mod', 'Accurate Zones Patch.mod', 'Heightmap Fix.mod', 'KPM_LEM.mod']
+2025-05-23 15:36:36,385 - DEBUG - Categoria: [8.1]--------------------(Combat).mod - Mods: ['Project -Ultimate Anim Patch-.mod', 'shoppingecon.mod', 'PolearmBladesUP.mod', 'Kenshi_rewritten.mod', 'BigBusiness.mod', 'DigCombat_skill_limits.mod', 'Great Anims_Rebalance.mod', 'DigCombatAnimation.mod', 'Animal Variations Patch.mod', 'Great Anims Mod.mod', 'CrunkTweakCompilation.mod']
+2025-05-23 15:36:36,385 - DEBUG - Categoria: [9]----------[Patches]----------.mod - Mods: []
+2025-05-23 15:36:36,385 - DEBUG - Categoria: [9.2]--------------------(Animation Patches).mod - Mods: []
+2025-05-23 15:36:36,386 - DEBUG - Categoria: [10]----------[Economy]----------.mod - Mods: []
+2025-05-23 15:36:36,386 - DEBUG - Categoria: [11]----------[Miscellanious]----------.mod - Mods: ['More Sitting Animation.mod']
+2025-05-23 15:36:36,386 - DEBUG - Scrittura del nuovo file mods.cfg...
+2025-05-23 15:36:36,386 - INFO - Nuovo file mods.cfg scritto con successo: D:\lavorini\io\Kenshi\KMO\Kenshi_mods_order\mods_local_auto_1.cfg
+2025-05-23 15:36:36,386 - DEBUG - Salvataggio del database locale mods_db.json...
+2025-05-23 15:36:36,389 - INFO - Database locale salvato con successo.
+2025-05-23 15:36:36,389 - INFO - Processo completato con successo.
